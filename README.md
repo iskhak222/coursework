@@ -15,4 +15,4 @@ TICK
 STATS
 EXIT
 
-Author: Student
+Author: Asylbekov Iskhak
